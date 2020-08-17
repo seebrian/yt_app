@@ -1,5 +1,6 @@
 import axios from "axios";
 const KEY = "AIzaSyARVF--bjME2ET09Nz15Lhs1IKbofrpTjA";
+
 //why KEY not key  mean that KEY is constant value
 
 //does not have ending / of baseurl
